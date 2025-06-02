@@ -26,7 +26,7 @@ Ensure you have the following installed before running the application:
    ```sh
    mvn spring-boot:run
 5. **Access the service**  
-   API endpoint: [`http://localhost:7777/v1/weather?city=YourCity`](http://localhost:7777/v1/weather?city=melbourne)
+   API endpoint: [`http://localhost:7777/v1/weather?city=melbourne`](http://localhost:7777/v1/weather?city=melbourne)
 
 
 
